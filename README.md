@@ -1,7 +1,7 @@
 # ImageSort
 Python Script to Rename and Sort Pictures by Date
 
-**El modo de ejecucion el siguiente**
+**El modo de ejecucion el siguiente** --> 
 ./nombre pathOrigen pathDestino
 
 Donde:
